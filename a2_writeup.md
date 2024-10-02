@@ -17,6 +17,6 @@ This assignment is about learning and applying the while loop and iterating thro
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
-    For the exctraction of information from a movie database I could use the match function by matching the name of a movie's string to the list of movies that I have stored in a list function which is all ran by a while loop that is ocnstnatly ran. 
+    For the exctraction of information from a movie database I could use the match function by matching the name of a movie's string to the list of movies that I stored in a list function which is all ran by a while loop that is ocnstnatly ran. 
 
 
